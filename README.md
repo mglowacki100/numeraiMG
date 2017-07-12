@@ -1,0 +1,2 @@
+# numeraiMG
+NumerAI competition
